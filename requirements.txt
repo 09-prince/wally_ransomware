@@ -1,1 +1,6 @@
+python3
+random
+os
+base64
+cryptography
 
